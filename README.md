@@ -89,7 +89,7 @@ You'll encounter `for` loops again when you learn about iterating through object
 
 function wrapGift(gift){
 
-  
+
 }
 ``` javascript
 var loopArray=[]
